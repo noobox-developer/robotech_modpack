@@ -1,0 +1,1 @@
+<recipetype:create:mechanical_crafting>.addRecipe("mechanical_crafter_andesite", <item:create:andesite_cobblestone> *2, [[<item:minecraft:andesite>]]);
